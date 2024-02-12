@@ -2,4 +2,4 @@
 
 This is a git demo.
 
-With one line changed.
+With one line changed twice.
